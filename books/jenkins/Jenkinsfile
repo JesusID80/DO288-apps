@@ -14,8 +14,7 @@ pipeline {
         DEV_PROJECT = piracarter1-books-dev"
         STAGE_PROJECT = "piracarter1-books-stage"
         APP_GIT_URL = "https://github.com/JesusID80/DO288-apps"
-        NEXUS_SERVER = "http://nexus-common.apps.ocp-la2.prod.nextcle.com/repository/nodejs"
-
+        NEXUS_SERVER = "http://nexus-common.apps.ocp-la2.prod.nextcle.com/repository/nodejs/"
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "books"
     }
